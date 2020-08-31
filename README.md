@@ -1,1 +1,1 @@
-# GADS-2020-practice-projects
+# GADS-2020-practice-projects-submission
